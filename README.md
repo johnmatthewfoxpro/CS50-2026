@@ -6,7 +6,8 @@ Harvards acclaimed computer science course.
 ## DESCRIPTION
 
 I initially began this course in 2025, however due to commitments to other courses and college I failed to complete the work.  
-As such I've returned with the new release of CS50-2026 to staret again with a fresh perspective.  
+
+As such I've returned with the new release of CS50-2026 to start again with a fresh perspective.  
 
 This respository will serve as a progress report and archive of the work I submit. The idea being to develope my skills of completing readme's and using git.
 
